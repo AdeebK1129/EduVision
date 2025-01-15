@@ -210,7 +210,7 @@ Response:
 **POST** /api/videos/upload/  
 Upload a new video for processing.  
 Request:
-FormData: { file: video_file }  
+FormData: ```json{ file: video_file }  ```
 Response:
 ```json
 {
