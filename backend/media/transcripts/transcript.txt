@@ -1,0 +1,671 @@
+[0.00 - 1.24]  Hey, how you doing, E-Cons students?
+[1.24 - 3.60]  This is Jacob Clifford, welcome to ACDCEcon.
+[3.60 - 7.12]  Now in this summary video, I'm going to go over everything you need to know for an AP
+[7.12 - 9.08]  or college introductory microeconomics class.
+[9.08 - 12.72]  I'm going to go super fast, but keep in mind this is not designed to retake you all the
+[12.72 - 13.72]  concepts.
+[13.72 - 16.74]  It's designed to help you get ready right before you walk into the big AP test or your
+[16.74 - 17.74]  big final.
+[17.74 - 21.16]  Also, it's a great way to review what you know and don't know by watching the entire class
+[21.16 - 22.16]  over again.
+[22.16 - 24.36]  You can spot the things that you have to go back and study.
+[24.36 - 27.40]  And if you've been watching my videos, you know I sell something called the Ultimate Review
+[27.40 - 28.40]  Pack.
+[28.40 - 32.04]  And I've got to practice questions and access to hidden videos that help you learn economics.
+[32.04 - 35.48]  These summary videos, they cover everything in greater detail than this video I'm doing
+[35.48 - 36.48]  right now.
+[36.48 - 39.60]  Now I was going to make this video available only to people who buy the packet, but then
+[39.60 - 41.32]  I thought, you know, I can trust people.
+[41.32 - 45.84]  And if you like my videos, if these videos help you learn economics, please go get the packet.
+[45.84 - 49.80]  I'm going to make this video available to everyone, but if you like my stuff, please support
+[49.80 - 52.60]  my channel and help me continue to make great E-Cons videos.
+[52.60 - 53.60]  Okay?
+[53.60 - 54.60]  Let's start it up.
+[54.60 - 57.36]  Now whether or not you're enrolled in a microeconomics class or a macroeconomics class,
+[57.36 - 60.72]  it all starts the same for a basic introductory e-con course.
+[60.72 - 62.12]  It starts with the idea of scarcity.
+[62.12 - 65.04]  Scarcity ideas we have unlimited wants and limited resources.
+[65.04 - 67.12]  Also, you can learn the idea of opportunity costs.
+[67.12 - 69.12]  That's the idea that everything has a cost, right?
+[69.12 - 71.44]  Doesn't matter what you're producing, you're going to give up something to produce it.
+[71.44 - 73.16]  Or any decision you make has a cost.
+[73.16 - 76.24]  Now those concepts come together with the production possibilities curve.
+[76.24 - 79.00]  It's the first graph you learn in economics.
+[79.00 - 83.36]  It shows the different combinations of producing two different goods using all of your resources.
+[83.36 - 85.48]  So any point on the curve is efficient.
+[85.48 - 87.68]  Like you're using all of your resources to the fullest.
+[87.68 - 89.84]  Any point inside the curve is inefficient.
+[89.84 - 93.96]  Any point out here outside the curve is impossible given your current resources.
+[93.96 - 95.36]  And there's two different shapes you have to remember.
+[95.36 - 99.08]  If it's a straight line production possibilities curve, that means there's constant opportunity
+[99.08 - 103.68]  costs, which means the resources to produce different products are very similar.
+[103.68 - 107.64]  So similar resources, if it's a straight line, if it's a boat outline, concave to the
+[107.64 - 110.72]  origin, that means that resources are not very similar.
+[110.72 - 113.60]  So when you produce more of one, you get more and more of the other one.
+[113.60 - 115.84]  That's called the law of increasing opportunity cost.
+[115.84 - 116.92]  Now this curve can shift.
+[116.92 - 120.64]  If you have more resources like land, labor, and capital, or less resources, or better
+[120.64 - 122.72]  technology, that can shift the curve.
+[122.72 - 124.72]  Another thing that shifts the curve is train.
+[124.72 - 128.92]  If another country trades with another country, that can shift out the production possibilities
+[128.92 - 129.92]  curve.
+[129.92 - 131.72]  But it shows how much they can consume, not actually produce.
+[131.72 - 136.48]  So it doesn't actually change how much you can make, but you can consume beyond your production
+[136.48 - 137.48]  possibilities curve.
+[137.48 - 141.00]  And that brings us to the hardest part of this unit, the idea of comparative advantage.
+[141.00 - 145.32]  The idea that country should specialize in the product where they have a lower opportunity
+[145.32 - 146.32]  cost.
+[146.32 - 148.92]  So if you're producing one thing, and I'm producing something else, if I can produce
+[148.92 - 152.44]  a lower opportunity cost than you, I should produce this, you should produce another thing,
+[152.44 - 153.44]  and then we should trade.
+[153.44 - 156.04]  Now there's two different things you got to remember, absolute advantage and comparative
+[156.04 - 157.04]  advantage.
+[157.04 - 158.04]  Absolute advantage is a joke.
+[158.04 - 159.04]  It's easy.
+[159.04 - 160.04]  You just figure out who produces more.
+[160.04 - 161.88]  That means they have an absolute advantage.
+[161.88 - 164.68]  Comparative advantage requires you to do some calculations, or the quick and dirty if you
+[164.68 - 168.20]  saw my unit summary video, and it tells you who should specialize and what.
+[168.36 - 171.68]  Now another thing you have to learn is the idea of terms of trade, which means how many
+[171.68 - 175.52]  units of one product should they trade for the other product that would benefit both
+[175.52 - 176.52]  country?
+[176.52 - 177.52]  That's the idea of terms of trade.
+[177.52 - 180.68]  In this unit, you also get a basic overview of different economic systems like the free
+[180.68 - 185.12]  market system, capitalism, and the idea of a command economy and a mixed economy.
+[185.12 - 187.52]  We're going to focus on capitalism in this class.
+[187.52 - 189.56]  And so you learn the circular flow model.
+[189.56 - 193.76]  The circular flow model shows you that there's businesses and individuals and the government
+[193.76 - 195.28]  and how they interact with each other.
+[195.28 - 200.48]  Just remember, businesses both sell and buy two different things.
+[200.48 - 202.84]  They sell products and they buy resources.
+[202.84 - 205.40]  So there's a product market and there's a resource market.
+[205.40 - 210.48]  Individuals, you and me, we buy products and we sell our resources.
+[210.48 - 211.88]  The government does some stuff as well.
+[211.88 - 214.48]  Another thing you're going to learn here is some vocab like transfer payments.
+[214.48 - 218.40]  This is when the government pays individuals like welfare, but it's not to buy anything.
+[218.40 - 220.76]  It's just to provide some public service.
+[220.76 - 224.64]  You also learn the idea of subsidies when the government provides businesses money to
+[224.64 - 225.64]  produce more.
+[225.64 - 227.96]  And also, you're going to talk about the idea of factor payments.
+[227.96 - 233.28]  So individuals sell their resources and businesses pay the factor payments to those individuals.
+[233.28 - 234.96]  Overall, unit one is quick and easy to learn.
+[234.96 - 237.68]  I give it about a three on the difficulty level out of ten.
+[237.68 - 238.68]  It's a fast unit.
+[238.68 - 239.68]  Make sure you get it.
+[239.68 - 240.68]  Make sure you get comparative advantage.
+[240.68 - 243.20]  Now, unit two sets a foundation for everything you're going to be doing later on.
+[243.20 - 244.56]  You start with demand and supply.
+[244.56 - 248.00]  Remember, demand is a down-and-sleeping curve that shows you the law of demand.
+[248.00 - 250.00]  When price goes up, people buy less stuff.
+[250.00 - 251.20]  When price goes down, people buy more.
+[251.20 - 253.64]  That's the idea of price and quantity demanded.
+[253.64 - 256.64]  Understand the idea that this curve is down and sloping for three reasons.
+[256.64 - 260.08]  Substitution effect, income effect, and the law diminishing margin utility.
+[260.08 - 261.40]  There's also a lot of supply.
+[261.40 - 263.28]  When the price goes up, people produce more.
+[263.28 - 264.76]  Price goes down, people produce less.
+[264.76 - 265.76]  Price goes up.
+[265.76 - 267.00]  Quantity supply goes up.
+[267.00 - 268.72]  Price goes down, and quantity supply goes down.
+[268.72 - 270.88]  Now together, they form equilibrium.
+[270.88 - 273.64]  Please note, if price goes up, there is no shift.
+[273.64 - 274.84]  Price does not shift the curve.
+[274.84 - 276.28]  It just moves along the curve.
+[276.28 - 279.56]  It makes it their shortage when the price is low or a surplus when the price is higher.
+[279.56 - 282.56]  You should also understand when there's actual individual shifts.
+[282.56 - 284.40]  There's only four things that are going to happen.
+[284.40 - 285.40]  Demand can go up.
+[285.40 - 286.40]  Demand can go down.
+[286.40 - 288.40]  Supply can go up or supply can go down.
+[288.40 - 289.80]  Just watch the graph.
+[289.80 - 290.80]  Draw the graph.
+[290.80 - 293.32]  Tell us exactly what happens to the price and quantity every single time.
+[293.32 - 296.64]  Now, if there's a double shift, when two curves shift at the same time, there's a double
+[296.64 - 297.64]  shift rule.
+[297.64 - 301.00]  When two curves shift, remember, something's going to be indeterminate.
+[301.00 - 302.24]  You can't tell what's going to happen.
+[302.24 - 303.52]  Either price or quantity.
+[303.52 - 308.04]  The trick here is draw the graph, draw the shift that occurs, and that's going to tell
+[308.04 - 309.04]  you where you end up.
+[309.04 - 313.24]  Whichever one looks the same, means that's indeterminate because you can't tell, price
+[313.24 - 314.52]  will go up or down.
+[314.52 - 317.04]  Another trick really quick is you can actually separate it out.
+[317.04 - 322.00]  If demand goes up and supply goes up, you can actually separate those two things out, put
+[322.00 - 326.64]  those results together, and that tells you which thing is indeterminate, price or quantity.
+[326.64 - 329.60]  The next thing you're talking about is the idea of substitutes and components.
+[329.60 - 332.72]  Their substitutes are two products you buy in place of each other.
+[332.72 - 334.04]  Compensor two things you buy together.
+[334.04 - 337.00]  The price of one affects the demand for the other.
+[337.00 - 339.04]  There's also normal and inferior.
+[339.04 - 342.84]  Normal goods or when the income goes up, people buy more of it, inferior goods when income
+[342.84 - 344.48]  goes up, people buy less of it.
+[344.48 - 347.52]  The hardest part, probably this entire unit, is the idea of elasticity.
+[347.52 - 352.32]  Elasticity shows how quantity changes when there's a change in price.
+[352.32 - 355.40]  Elastic means when price goes up a little bit, people buy a whole lot less.
+[355.40 - 357.72]  So quantity is very sensitive to a change in price.
+[357.76 - 361.84]  And when the price goes down, people buy a whole lot more sensitive to a change in price.
+[361.84 - 363.24]  Any elastic looks like this.
+[363.24 - 365.88]  This is the idea when price goes up, people don't buy that much less.
+[365.88 - 368.20]  When price goes down, people buy just a little bit more.
+[368.20 - 372.72]  So any elastic demand means quantity is insensitive to a change in price.
+[372.72 - 376.32]  In this unit, you also learn about the elasticity of demand coefficient, which sounds hard, but
+[376.32 - 377.32]  it's not hard.
+[377.32 - 380.84]  It's just the percent change in quantity divided by the percent change in price.
+[380.84 - 383.84]  This number tells you how elastic the demand is.
+[383.84 - 388.08]  And if it gives you the absolute value, is a number greater than one.
+[388.08 - 389.56]  That means it's elastic demand.
+[389.56 - 392.64]  And if it's less than one, that makes it an inelastic demand.
+[392.64 - 396.36]  Also, you should understand the idea of cross price elasticity, which is the same kind
+[396.36 - 400.16]  of equation, but it's the percent change in quantity of one product relative to the
+[400.16 - 402.44]  percent change in price of a completely different product.
+[402.44 - 404.40]  And it tells you if their compliments are substitutes.
+[404.40 - 406.36]  A positive number means they're substitutes.
+[406.36 - 408.24]  A negative number means they're compliments.
+[408.24 - 411.48]  There's also the income elasticity coefficient, which is the same idea except it's percent
+[411.48 - 413.80]  change in quantity divided by the percent change in quantity.
+[413.80 - 417.92]  And the income, a positive number means a normal good, a negative number means an inferior
+[417.92 - 418.92]  good.
+[418.92 - 421.40]  Now, when you talk about elasticity, there's also something called the total revenue test
+[421.40 - 422.72]  that's only applies to demand.
+[422.72 - 425.00]  Don't worry about what this supply doesn't work with supply.
+[425.00 - 429.68]  The idea is if price goes up and total revenue goes up, that means the demand must be
+[429.68 - 430.68]  inelastic.
+[430.68 - 433.56]  If price goes down, total revenue goes down, then it must be inelastic.
+[433.56 - 437.68]  Now, if price goes up and the total revenue goes down, that means it's elastic.
+[437.68 - 439.92]  It has to do with the size of this box here.
+[439.92 - 443.80]  So side by side, you should tell over here, this is inelastic demand, over here, it's
+[443.80 - 444.80]  elastic demand.
+[444.80 - 448.24]  And the price falls inelastic demand, total revenue gets smaller.
+[448.24 - 449.56]  That box gets smaller.
+[449.56 - 451.96]  Over here in price falls, total revenue gets bigger.
+[451.96 - 453.44]  That must be elastic demand.
+[453.44 - 454.76]  Total revenue test.
+[454.76 - 455.76]  Back to supply and demand.
+[455.76 - 458.20]  Make sure you can spot consumer and producer surplus.
+[458.20 - 461.04]  Consumer surplus is right here, producer surplus is right there.
+[461.04 - 464.04]  Consumer surplus is the difference between what you want to pay and what you did pay.
+[464.04 - 466.96]  And producer surplus is the difference between the price and what somebody's willing to sell
+[466.96 - 467.96]  it for.
+[467.96 - 471.24]  And the efficient market maximizes consumer and produces surplus.
+[471.24 - 473.56]  So there's no thing called dead weight loss.
+[473.56 - 474.88]  Now let's talk about ceilings and floors.
+[474.88 - 478.84]  When the government comes in and sets prices, when it's not in equilibrium, that's the
+[478.84 - 480.08]  idea of price controls.
+[480.08 - 481.08]  A ceiling looks like this.
+[481.08 - 484.48]  Remember, a ceiling always goes below equilibrium if it's binding.
+[484.48 - 487.80]  If the question says the ceiling is above equilibrium, just remember, nothing's going
+[487.80 - 488.80]  to change.
+[488.80 - 490.28]  Price and quality, they don't change.
+[490.28 - 492.04]  A floor looks like this, right?
+[492.04 - 493.04]  There it is.
+[493.04 - 495.08]  A floor always goes above equilibrium.
+[495.08 - 496.72]  So there's a price floor.
+[496.72 - 500.52]  You should also be able to spot consumer and producer surplus on each one of them.
+[500.52 - 503.48]  Consumer surplus and producer surplus, dead weight loss look like this for a ceiling and
+[503.48 - 504.48]  floor, right?
+[504.48 - 505.48]  That's the idea.
+[505.48 - 508.04]  Deadweight loss is the idea of lost, consumer and producer surplus, or we're not being
+[508.04 - 509.12]  efficient in the market.
+[509.12 - 513.68]  A competitive market, efficient, no dead weight loss, ceilings, floors, monopolies, other
+[513.68 - 517.16]  concepts you learn later on, create this idea of dead weight loss.
+[517.16 - 520.16]  Another concept you might see that looks like this, but it's different as the idea of international
+[520.16 - 521.16]  trade.
+[521.16 - 523.92]  You can buy other products at a cheaper world price.
+[523.92 - 528.24]  That means the price will fall and that means producer surplus will get smaller, but consumer
+[528.24 - 530.56]  surplus will get bigger.
+[530.56 - 532.76]  Consumers willing to pay did pay can buy more.
+[532.76 - 536.60]  We're going to import the amount of shortage that would normally exist that doesn't exist
+[536.60 - 537.60]  anymore.
+[537.60 - 539.08]  You might see a question about a tariff.
+[539.08 - 542.92]  If this world price goes up because the government says, we don't like that, low price, let's
+[542.92 - 546.76]  put a tariff on it, that creates dead weight loss like this and there's a tariff revenue
+[546.76 - 548.16]  box right there in the middle.
+[548.16 - 549.16]  Next up is the idea of taxes.
+[549.16 - 551.32]  You've got a supply curve shifting to the left.
+[551.32 - 552.32]  This is a per unit tax.
+[552.32 - 555.24]  You have to be able to spot the box of tax revenue.
+[555.24 - 559.00]  Note the vertical distance between the two supply curves is the amount of tax per units.
+[559.00 - 562.20]  The box on the top tells you how much consumers pay of the tax.
+[562.20 - 564.32]  Box on the bottom tells how much producers pay the tax.
+[564.32 - 569.84]  You can also find the total expenditures spent on whatever product this is and how much of
+[569.84 - 571.48]  that producers get to keep.
+[571.48 - 575.40]  This is the net revenue that producers actually get to keep.
+[575.40 - 579.42]  The only way to spot what happens when the elasticity changes to this graph and who
+[579.42 - 580.76]  ends up paying the taxes.
+[580.76 - 584.72]  Here shows you when the demand is different shapes and different elasticity's who ends up
+[584.72 - 585.72]  paying for the tax.
+[585.72 - 590.08]  Remember when the demand is perfectly inelastic, consumers pay all the tax.
+[590.08 - 594.44]  The more elastic it gets, the more that producers pay of the tax.
+[594.44 - 596.56]  That's a lot of stuff but there's still one more thing you have to learn.
+[596.56 - 597.56]  It's a little different.
+[597.56 - 598.80]  The idea of consumer choice.
+[598.80 - 602.42]  This is the idea that you have two different products and you have different additional
+[602.42 - 606.10]  satisfactions for each one and you got to figure out what you actually want to buy.
+[606.10 - 607.74]  Keeping in mind that they're two different prices.
+[607.74 - 609.38]  You have to actually use an equation here.
+[609.38 - 612.58]  It's the margin utility per dollar of one of them.
+[612.58 - 615.06]  It equals the margin utility per dollar of the other one.
+[615.06 - 619.58]  In other words, you figure out how much additional satisfaction you're getting divided by the
+[619.58 - 623.78]  price of one of them and the additional satisfaction you're getting from the other one, divided
+[623.78 - 624.78]  by the price of the other one.
+[624.78 - 627.86]  That puts them in light terms and you just keep buying the one that gives you the most
+[627.86 - 631.10]  additional satisfaction divided by the price.
+[631.10 - 635.58]  The test might give you a question like this where it asks, okay, what should they buy
+[635.58 - 638.50]  if they only had $30 and there's a special combination.
+[638.50 - 642.98]  The combination that maximizes the total utility you use this rule.
+[642.98 - 644.22]  Unit 2 is super important.
+[644.22 - 646.98]  It's got a lot of stuff but it's not like hard stuff.
+[646.98 - 651.50]  I give this five out of ten difficulty level for Unit 2 but make sure you really get
+[651.50 - 653.82]  it because you're going to add on to this stuff later on.
+[653.82 - 656.42]  Unit 3 is really the meat and potatoes of microeconomics.
+[656.42 - 657.98]  This is what you talk about cost curves.
+[657.98 - 659.38]  You start doing some calculations.
+[659.38 - 661.06]  You start putting together the theory of the firm.
+[661.10 - 662.90]  It gets hard but it starts off easy.
+[662.90 - 666.30]  You start off by learning about the idea of inputs and outputs and as you hire more
+[666.30 - 670.30]  workers, this is the total product and you can calculate the marginal products which
+[670.30 - 674.18]  shows you the additional output that these producers produce.
+[674.18 - 678.58]  This shows you the relationship between inputs and outputs and you find out the law of diminishing
+[678.58 - 680.10]  marginal returns.
+[680.10 - 683.44]  This means as you hire more workers and there's fixed resources, you're going to get less
+[683.44 - 685.18]  and less additional output.
+[685.18 - 686.70]  There's three stages of returns.
+[686.70 - 688.62]  This is happening because of specialization.
+[688.62 - 691.08]  This is happening because of fixed resources and this is happening because workers are
+[691.08 - 693.38]  stumbling over each other in each other's way.
+[693.38 - 697.14]  You take that concept and you catapult now into cost, we talk about the three types of
+[697.14 - 698.14]  cost.
+[698.14 - 702.46]  There's fixed cost, variable cost and total cost, variable plus fixed equal total.
+[702.46 - 707.42]  That also gives us the per unit cost curves like average total cost, average variable cost,
+[707.42 - 710.86]  average fixed cost, marginal cost, make sure you calculate them and make sure you understand
+[710.86 - 712.18]  what they look like on a graph.
+[712.18 - 713.18]  Graph looks like this.
+[713.18 - 717.86]  Any given quantity, all you do is go straight up and that tells you the cost per unit of
+[717.86 - 718.86]  that unit.
+[718.86 - 721.70]  You can also convert those per unit cost to total cost.
+[721.70 - 727.10]  Just multiply the average total cost of producing a certain number of units times the quantity
+[727.10 - 729.62]  that gives you a box, that box is the total cost.
+[729.62 - 732.82]  You can do the same thing for the variable cost and for the fixed cost.
+[732.82 - 735.98]  The shape of these curves isn't just random, they look like this for a reason.
+[735.98 - 740.94]  Marginal cost goes down and up because as you hire more workers, they specialize so that
+[740.94 - 743.18]  additional cost of those units are going to fall.
+[743.18 - 746.18]  As you hire more workers, they produce less and less additional stuff.
+[746.18 - 748.66]  The cost of those additional units are going to start going up.
+[748.66 - 752.34]  Marginal cost goes down and then it goes right back up again.
+[752.34 - 757.66]  Also you should recognize the idea that ATC hits marginal cost at ATC's minimum.
+[757.66 - 760.30]  When marginal is below the ATC, it pulls it down.
+[760.30 - 763.06]  When marginal is above the ATC, it pulls it right back up again.
+[763.06 - 765.98]  It's important to keep in mind that the cost curves I'm talking about, these are short run
+[765.98 - 768.18]  cost curves which is different than the long run.
+[768.18 - 771.02]  The long run is the idea that all resources are variable.
+[771.02 - 773.98]  The short run, there's some resource that's fixed.
+[773.98 - 777.30]  The long run all resources are variable so the lot of diminishing margin returns does
+[777.30 - 778.30]  you apply.
+[778.30 - 780.22]  Instead we have a different graph and a different concept.
+[780.22 - 781.22]  It's right here.
+[781.22 - 784.34]  As you're producing more, you can use mass production techniques.
+[784.34 - 786.94]  Mass production means your average cost.
+[786.94 - 789.38]  The long run average total cost will fall.
+[789.38 - 791.06]  That's the idea of economies of scale.
+[791.06 - 792.78]  At some point your cost don't fall.
+[792.78 - 795.46]  Lower you can't use any more mass production techniques.
+[795.46 - 796.46]  It levels off.
+[796.46 - 798.30]  That's called constant returns of scale.
+[798.30 - 801.50]  Eventually as you're producing so much stuff, you're in a long run cost go back up again.
+[801.50 - 804.22]  Your average cost go back up and that's called disaccombs of scale.
+[804.22 - 807.26]  Again, that's the idea of the long run cost.
+[807.26 - 810.70]  Long run costs are these short run costs look like those.
+[810.70 - 813.34]  In this unit you're going to be introduced to the idea of the theory of the firm which
+[813.34 - 817.02]  shows you these cost curves except now with some revenue curves on top.
+[817.02 - 818.34]  You start off with perfect competition.
+[818.34 - 822.14]  The idea that there are many small firms, thousands of firms, they all have the same exact
+[822.14 - 823.14]  products.
+[823.14 - 825.90]  They have low barriers so other firms can enter really easy or exit.
+[825.90 - 828.38]  The most important one, they are price takers.
+[828.38 - 830.98]  That means they got to take the price that's set by the market.
+[830.98 - 831.98]  That gives you the graph.
+[831.98 - 835.90]  The graph that I learned back in unit two, supply and demand, there it is.
+[835.90 - 837.78]  An individual firm looks like this.
+[837.78 - 841.38]  It starts off the horizontal demand curve that's equal to the marginal revenue because if
+[841.38 - 843.62]  they want to sell another unit, they don't have to change the price.
+[843.62 - 845.02]  The price is set.
+[845.02 - 848.46]  Horizontal demand curve, which is the marginal revenue curve which is Mr. Darp if you've
+[848.46 - 849.46]  seen that before.
+[849.46 - 850.94]  Then you take your cost curves, bam.
+[850.94 - 852.14]  Throw your cost curves on there.
+[852.14 - 855.98]  Now you can spot if there's profit or a long run or making a loss.
+[855.98 - 859.10]  These concepts you have to be able to draw as well probably for a free response.
+[859.10 - 862.02]  Make sure you recognize this is the idea of profit.
+[862.02 - 866.08]  That is the idea of a loss and that is the idea of the long run.
+[866.08 - 869.82]  This is also when you're introduced the most important concept in all of microeconomics.
+[869.82 - 871.46]  You produce where MR equals MC.
+[871.46 - 874.58]  You get a tattoo in your arm, produce MR equals MC.
+[874.58 - 877.90]  That tells you exactly how much to produce whether you're a monopoly, an ops competition,
+[877.90 - 878.90]  perfect competition.
+[878.90 - 883.50]  You always produce where MR equals MC because if you produce or the marginal cost is greater
+[883.50 - 886.18]  than the marginal revenue, then you're not maximizing profit.
+[886.18 - 889.46]  If you produce where the marginal cost is less than the marginal revenue, again, you're
+[889.46 - 890.46]  not maximizing profit.
+[890.46 - 891.78]  You can still earn more profit.
+[891.78 - 895.54]  Produce the same spot everywhere, every time MR equals MC, don't forget it.
+[895.54 - 898.98]  Another skill you need to be able to do is actually do the calculations of average total
+[898.98 - 902.82]  cost, average fixed cost, do those things, and then figure out how many units you should
+[902.82 - 903.82]  produce.
+[903.82 - 907.58]  Calculate the marginal cost and figure out they gave the price, how many it should produce,
+[907.58 - 909.10]  and how much profit you're actually making.
+[909.10 - 913.02]  You should be able to use the chart to maximize profit just as much as using a graph.
+[913.02 - 914.02]  Let's go back to that loss.
+[914.02 - 918.78]  Notice the ATC is above the price, which makes sense if the price is down here and the
+[918.78 - 921.22]  average total cost is higher, that means you're making a loss per unit.
+[921.22 - 923.58]  Now if your loss gets big enough, you should shut down.
+[923.58 - 926.58]  You can tell your workers to go home and don't produce anything at all because you rather
+[926.58 - 930.74]  have your fixed costs be your loss as opposed to a bigger cost, bigger than your fixed
+[930.74 - 931.74]  cost.
+[931.74 - 934.94]  The rule is this, if the price falls below ADC, you should shut down.
+[934.94 - 936.30]  It's called the shutdown rule.
+[936.30 - 941.54]  One more time, the only rule that trumps the profit maximizing rule is the shutdown rule.
+[941.54 - 944.74]  What that means is that marginal cost is actually a supply curve.
+[944.74 - 948.26]  The marginal cost, upper-soping curve, is a supply curve you've been drawing ever since
+[948.26 - 949.26]  back in unit two.
+[949.26 - 953.10]  Also, you should know not all of it, not all that supply curve owned the portion that's
+[953.10 - 956.70]  above the ADC because if the price falls below ADC, you shut down.
+[956.70 - 957.70]  You don't produce anything at all.
+[957.70 - 959.54]  Now let's go back to the long run graph quickly.
+[959.54 - 960.54]  You remember this?
+[960.54 - 963.90]  This is the idea of a long run equilibrium, total revenue equals total cost.
+[963.90 - 965.22]  That means they're making no profit.
+[965.22 - 968.42]  Remember, there's two types of profit, economic profit and accounting profit.
+[968.42 - 971.30]  In this case, they're making no economic profit.
+[971.30 - 974.70]  They're not making money up and above their opportunity cost.
+[974.70 - 979.74]  Their total revenue equals their total cost, including their explicit cost and implicit
+[979.74 - 981.22]  cost, their opportunity cost.
+[981.22 - 983.02]  In other words, this is not a bad thing.
+[983.02 - 984.14]  This means they're breaking even.
+[984.14 - 985.74]  They can't make more money doing something else.
+[985.74 - 987.02]  They're not losing any money.
+[987.02 - 988.38]  This is the idea of a normal profit.
+[988.38 - 991.62]  But they are making positive accounting profit.
+[991.62 - 993.26]  Now the question is, how does it look like this?
+[993.26 - 994.50]  Well, take a look.
+[994.50 - 998.30]  In this short run, here we're going to do short run to long run, they're making profit.
+[998.30 - 999.30]  What happens?
+[999.30 - 1003.02]  Well, firms, because there's low barriers, jump in, supply shifts to the right, lowering
+[1003.02 - 1005.30]  the price back down, boom, long run.
+[1005.30 - 1006.74]  You can go the same way with the loss.
+[1006.74 - 1007.94]  So here's the loss.
+[1007.94 - 1008.94]  Firms are going to leave.
+[1008.94 - 1012.10]  When they leave, shift, new supply curve to the left, price goes back up or it goes back
+[1012.10 - 1014.94]  to a new long run, bam, long run.
+[1014.94 - 1016.86]  Now, the last thing in this unit is the idea of efficiency.
+[1016.86 - 1019.38]  You remember there's two different types, productive and allocative.
+[1019.38 - 1021.86]  Perfect competition in the long run has both.
+[1021.86 - 1025.62]  They're producing at the productively efficient quantity, which means they're producing the lowest
+[1025.62 - 1027.94]  ATC, their cost or the lowest they can be.
+[1027.94 - 1031.62]  They're also allocatively efficient or socially optimal because they're producing where the
+[1031.62 - 1033.42]  marginal cost hits the demand.
+[1033.42 - 1035.70]  In other words, people are willing to pay or the price.
+[1035.70 - 1039.78]  People are willing to pay exactly what the marginal cost equals.
+[1039.78 - 1042.90]  That tells you the society who actually wants those units produced.
+[1042.90 - 1045.42]  I'm going to pay $10 and it costs you $10 to produce it.
+[1045.42 - 1046.58]  You produce the right amount.
+[1046.58 - 1049.98]  If I'm going to pay you $10 and it costs you $20 to produce it, then you obviously produce
+[1049.98 - 1050.98]  the wrong quantity.
+[1050.98 - 1052.50]  Again, that's the idea of efficiency.
+[1052.50 - 1055.98]  Remember, efficiency has more to do with society than the firm.
+[1055.98 - 1060.66]  So monopoly is not efficient, not because they're not making profit and doing well for
+[1060.66 - 1063.46]  themselves, but they're not efficient with society's resources.
+[1063.46 - 1065.46]  Unit 3 by far is the hardest unit.
+[1065.46 - 1067.38]  It's when you're introduced to all these cost curves.
+[1067.38 - 1068.70]  You've got to practice, make sure you get it.
+[1068.70 - 1071.94]  I give this a nine out of 10 difficulty level.
+[1071.94 - 1073.66]  Spend your time, practice this unit.
+[1073.66 - 1075.06]  Now, here we go in unit 4.
+[1075.06 - 1078.06]  Remember, there's four market structures, perfect competition and three others.
+[1078.06 - 1079.82]  In this unit, we're going to learn the three others.
+[1079.82 - 1082.50]  We've got monopolies, oligopolys, monops competitions.
+[1082.50 - 1083.98]  Let's jump into these things.
+[1083.98 - 1088.54]  Just saying monopoly, obviously, one firm, they've got a unique product and there's high
+[1088.54 - 1092.18]  barriers and the market is the firm, which makes the graph a whole lot easier.
+[1092.18 - 1093.94]  There's not two side by side graphs.
+[1093.94 - 1095.10]  There's one graph.
+[1095.10 - 1098.62]  We've got a downless open demand and a marginal revenue that's less than that for all imperfect
+[1098.62 - 1100.94]  competition, monopolis, monops competition.
+[1100.94 - 1103.86]  The reason why is if they want to sell another unit, they got to lower the price.
+[1103.86 - 1105.14]  They're not price takers.
+[1105.14 - 1106.14]  They're price makers.
+[1106.14 - 1110.46]  You should also recognize the elastic and the inelastic ranges of this demand curve.
+[1110.46 - 1113.86]  Remember on this side, that's the elastic range because when the price is falling, toll
+[1113.86 - 1117.70]  revenue is going up and when the price is going down on this side, toll revenue is going
+[1117.70 - 1118.70]  down.
+[1118.70 - 1119.70]  That's the idea of the total revenue test.
+[1119.70 - 1121.30]  Now, we take the cost curves that we've already learned.
+[1121.30 - 1122.50]  Put them on a monopoly.
+[1122.50 - 1125.70]  You identify the profit maximizing quantity, M.R.E.C.
+[1125.70 - 1130.22]  Charger price up to demand and now you can spot the profit, the toll revenue and the total
+[1130.22 - 1131.22]  cost.
+[1131.22 - 1132.70]  You should also be able to draw this using a loss.
+[1132.70 - 1133.98]  Now, that's a monopoly.
+[1133.98 - 1135.42]  There's also a natural monopoly.
+[1135.42 - 1139.34]  The idea that there's smarter to have just one firm producing it because at the quantity
+[1139.34 - 1142.66]  of social optimal, we've got the average total cost is still falling.
+[1142.66 - 1144.46]  That means they can produce it the lowest possible cost.
+[1144.46 - 1146.42]  Now, that's the idea of regulation.
+[1146.42 - 1148.10]  The government can come in and regulate.
+[1148.10 - 1149.38]  This right here is unregulated.
+[1149.38 - 1151.42]  That's if the firm is left to its own device.
+[1151.42 - 1153.38]  It will choose to produce RMR.C.C.
+[1153.38 - 1154.74]  Maximize profit.
+[1154.74 - 1158.18]  Right here is the idea of social optimal, whether it be no devoid loss and right here is
+[1158.18 - 1160.54]  something called fair return.
+[1160.54 - 1162.82]  That's the idea that they're making no economic profit.
+[1162.82 - 1165.62]  They're breaking even right there where the price hits the ATC.
+[1165.62 - 1169.44]  You should also be able to recognize consumer surplus for the monopoly and also the dead
+[1169.44 - 1170.44]  weight loss.
+[1170.44 - 1171.44]  Here's a trick really quick.
+[1171.44 - 1173.94]  Devate loss will always point to socially optimal.
+[1173.94 - 1177.98]  Remember socially optimal as well marginal cost hits the demand or hits the price.
+[1177.98 - 1181.02]  Right there is where we want produce and a monopoly under produce.
+[1181.02 - 1184.22]  Monopoly charges a higher price and produces less output.
+[1184.22 - 1187.34]  Right there is the amount society actually wants.
+[1187.34 - 1190.94]  The devate loss will always point to it like that and it shows you what we should do.
+[1190.94 - 1192.70]  We should be producing more output.
+[1192.70 - 1193.70]  Society wants more.
+[1193.78 - 1198.70]  Now the same concept of pointing to social optimal applies to ceilings and floors and
+[1198.70 - 1202.10]  later will find out with positive and negative externalities.
+[1202.10 - 1203.82]  You might also see another type of monopoly.
+[1203.82 - 1206.02]  This is a price discriminating monopoly.
+[1206.02 - 1208.74]  This means they're charging multiple prices, not just one price.
+[1208.74 - 1213.26]  The marginal revenue actually becomes the demand curve so they produce where MR.C.C.
+[1213.26 - 1214.86]  But they're going to charge multiple different prices.
+[1214.86 - 1217.02]  That means the profit gets a whole lot bigger.
+[1217.02 - 1220.10]  Consumers surplus disappears and devate loss disappears.
+[1220.10 - 1222.26]  They're producing actually the socially optimal quantity.
+[1222.26 - 1223.82]  They start learning about oligopolys.
+[1223.82 - 1225.46]  The idea that there's many small firms.
+[1225.46 - 1229.66]  They've got really high barriers and they have strategic pricing.
+[1229.66 - 1231.62]  They go worried about the pricing of the other guy.
+[1231.62 - 1233.54]  You can see we've got a game theory matrix right here.
+[1233.54 - 1237.94]  You can build a spot dominant strategy for each one of the two different firms and identify
+[1237.94 - 1238.94]  something called Nash equilibrium.
+[1238.94 - 1242.78]  I'm not going to do the details now, but I've got a ton of videos that show you how to
+[1242.78 - 1244.34]  do that skill.
+[1244.34 - 1246.30]  Also understand the idea of monopolistic competition.
+[1246.30 - 1250.06]  This is the idea that it's like a monopoly because they're a price maker but it's like
+[1250.06 - 1252.94]  a perfect competition because firms can enter.
+[1252.94 - 1255.54]  What you have is the same graph as before.
+[1255.54 - 1259.18]  Monopoly graph, in this case making profit, but it doesn't stay there because firms can
+[1259.18 - 1260.38]  enter.
+[1260.38 - 1263.46]  In the long run, firms will enter when they enter.
+[1263.46 - 1266.10]  That means the demand's going to go down.
+[1266.10 - 1269.50]  Demands going to fall for this monopolist competitive firm because now they have to share
+[1269.50 - 1272.10]  more customers with the new firms that jumped in.
+[1272.10 - 1273.10]  Now we're in the long run.
+[1273.10 - 1274.58]  That's the graph that you need to do.
+[1274.58 - 1277.02]  That's monopolist competition in a long run equilibrium.
+[1277.02 - 1278.26]  Unit 4 is a bear.
+[1278.26 - 1281.14]  It's the monopoly graph, a lot of different concepts you have to learn.
+[1281.14 - 1283.14]  Since you already did perfect competition, it should help you out.
+[1283.14 - 1286.10]  In fact, you should actually learn more about perfect competition when you do monopolies
+[1286.10 - 1288.18]  because it puts concepts together in your brain.
+[1288.18 - 1290.98]  I give an 8 out of 10 difficulty.
+[1290.98 - 1292.50]  Now we're talking about the resource market.
+[1292.50 - 1295.34]  Unit 5 talks about supply and demand now for labor.
+[1295.34 - 1300.06]  Remember, just like we've mentioned before in the circular flow model, businesses sell products
+[1300.06 - 1301.06]  in the product market.
+[1301.06 - 1304.46]  They also hire resources in the resource market.
+[1304.54 - 1308.86]  The demand is the demand by firms for workers and supplies by you and me.
+[1308.86 - 1312.30]  So, me and your supply, individuals are supplying and businesses are demanding.
+[1312.30 - 1315.06]  The first concept you have to know is the idea of derived demand.
+[1315.06 - 1319.06]  The demand for labor depends on the product that that labor produces.
+[1319.06 - 1323.90]  So if the demand goes up for pizza, then the demand is going to go up for pizza delivery drivers.
+[1323.90 - 1325.86]  That's the idea of derived demand.
+[1325.86 - 1329.86]  You should also be able to recognize shifts in this curve and the idea of minimum wage.
+[1329.86 - 1334.54]  The minimum wage is a binding floor and so the price goes up, in this case, the wage
+[1334.54 - 1338.98]  goes up, the quantity of demand falls, the quantity of supply increases and we have unemployment
+[1338.98 - 1340.50]  of resources.
+[1340.50 - 1343.62]  Also recognize the idea of MRP and MRC.
+[1343.62 - 1345.74]  The first thing you have to be able to do is do the chart.
+[1345.74 - 1347.46]  Right here, you have the number of workers.
+[1347.46 - 1348.74]  You have the total product they produce.
+[1348.74 - 1351.98]  You learn this back in Unit 3, but then you have to calculate the additional revenue
+[1351.98 - 1353.34]  of these workers generate.
+[1353.34 - 1355.62]  You do that by doing the marginal product.
+[1355.62 - 1359.58]  Then you calculate the marginal revenue product, the additional revenue they generate, which
+[1359.58 - 1362.98]  you do is you multiply the product, the additional output, the marginal product times the
+[1362.98 - 1366.70]  price and then you compare that to the marginal resource cost, which is the cost of high
+[1366.70 - 1367.70]  number worker.
+[1367.70 - 1372.10]  Now, in a perving pattern of resource market, each worker costs the same and that tells
+[1372.10 - 1374.38]  you that you should hire a certain number of workers.
+[1374.38 - 1376.66]  Now that concept also applies to a graph.
+[1376.66 - 1379.94]  You take that chart, you put it on a graph, you get this, side by side graphs.
+[1379.94 - 1382.26]  We've got that market graph from before.
+[1382.26 - 1387.02]  Horizontal supply curve, which equals the marginal resource cost and a down-soping marginal
+[1387.02 - 1390.66]  revenue product because each worker is worth less and less revenue to your company.
+[1390.66 - 1395.90]  You hire where MRP hits MRC just like before instead of producing now, though we're hiring.
+[1395.90 - 1399.58]  It's important to see that a perfectly competitive firm in the resource market is just the
+[1399.58 - 1402.70]  flip version of a perfect competitive firm in the product market.
+[1402.70 - 1406.38]  We have a horizontal curve except now it's supply and a down-soping curve as opposed
+[1406.38 - 1407.90]  to an upward-soping curve from before.
+[1407.90 - 1411.58]  So if you can draw one, just turn around and flip it and draw the other one.
+[1411.58 - 1413.94]  That same concept applies to something called a monopsony.
+[1414.18 - 1416.06]  A monopsony is a monopoly for labor.
+[1416.06 - 1420.98]  So we instead of having a downward demand curve and a downward MR that's below us, we have
+[1420.98 - 1423.94]  an upward-soping supply curve and a MRC that's above it.
+[1423.94 - 1428.14]  The reason why is they can't wage discriminates when they hire another worker.
+[1428.14 - 1432.30]  They're going to charge that worker, the wage and the workers that are paying less,
+[1432.30 - 1434.34]  the higher wage for the MRC is actually higher.
+[1434.34 - 1436.98]  They're going to hire where MRP hits MRC always.
+[1436.98 - 1442.26]  So they're going to pay a wage below the down-to-the-supply curve, what people actually
+[1442.26 - 1443.58]  want to work for.
+[1443.58 - 1444.58]  The monopsony graph.
+[1444.58 - 1448.14]  Now the last concept in this unit is the idea of the least cost rule.
+[1448.14 - 1451.06]  This is like margin utility except now we're talking about marginal products.
+[1451.06 - 1455.30]  You have two different resources, labor and machines and you're trying to figure out what's
+[1455.30 - 1460.70]  the right combination of hiring and the idea is you have to calculate the additional output
+[1460.70 - 1463.38]  that each one of these generates divided by the price.
+[1463.38 - 1465.14]  This puts them again in like terms.
+[1465.14 - 1468.50]  So I want to know what's the additional output I get from another unit of labor and what's
+[1468.50 - 1472.42]  the price of that labor, what's the additional output from another machine or another capital
+[1472.42 - 1475.26]  divided by the price of that machine if they're equal, perfect.
+[1475.26 - 1477.06]  I've got the least possible cost.
+[1477.06 - 1480.86]  If one's higher, I should keep doing that one and that number is going to fall because
+[1480.86 - 1484.02]  the finishing margin returns and that's going to fall.
+[1484.02 - 1485.82]  If this one's higher, I do that one instead.
+[1485.82 - 1488.02]  This is called the least cost rule.
+[1488.02 - 1489.02]  That is the equation.
+[1489.02 - 1492.76]  Unit 5 is actually pretty short and it's actually kind of easy but the problem is it's
+[1492.76 - 1494.18]  different than all the other units.
+[1494.18 - 1495.94]  We are looking at supply and demand.
+[1495.94 - 1498.50]  We've never really seen a horizontal supply curve very often.
+[1498.50 - 1503.04]  If I give this one a 6 out of 10 difficulty, only because it's the one that students have
+[1503.04 - 1504.88]  it often forgets.
+[1504.88 - 1505.88]  They often forget.
+[1505.88 - 1510.04]  There's really very few graphs here and just one major skill, figure out how many workers
+[1510.04 - 1511.04]  you can hire.
+[1511.04 - 1513.82]  Last unit of 6, we talk about market failures.
+[1513.82 - 1515.96]  Market failures, the idea of the free market is awesome.
+[1515.96 - 1517.98]  It's great but sometimes it fails.
+[1517.98 - 1519.22]  It ends up producing the wrong stuff.
+[1519.22 - 1523.12]  The invisible hand of the free market ends up getting the wrong quantity and the socially
+[1523.12 - 1527.86]  optimal quantity is different than what the free market is actually providing.
+[1527.86 - 1529.62]  The first one is the idea of public goods.
+[1529.62 - 1531.74]  Public goods have two characteristics.
+[1531.74 - 1534.46]  Number one, shared consumption or what's called non-rivalry.
+[1534.46 - 1535.46]  When I use it, you can use it.
+[1535.46 - 1536.46]  We can all use it.
+[1536.46 - 1538.58]  Your consumption of it doesn't destroy it for me.
+[1538.58 - 1541.14]  Most importantly, this idea of non-exclusion.
+[1541.14 - 1545.46]  You cannot exclude people from enjoying it if they didn't pay their taxes.
+[1545.46 - 1550.22]  Non-exclusion shared consumption means that it's a true public good.
+[1550.22 - 1553.66]  Obviously, the free market cannot provide it if they can't get people to buy and pay
+[1553.66 - 1554.66]  for it.
+[1554.66 - 1556.78]  You can't exclude people from enjoying the benefits.
+[1556.78 - 1558.90]  Free market can't make it because they can't make profit.
+[1558.90 - 1560.62]  The government is going to step it in and set it.
+[1560.62 - 1562.66]  The next thing you learn is the idea of externalities.
+[1562.66 - 1566.30]  Externalities is when there's additional costs or benefits on some of the person.
+[1566.30 - 1570.78]  The free market assumes that the people who buy and sell things to each other are paying
+[1570.78 - 1572.86]  all the costs and receiving all the benefits.
+[1572.86 - 1576.18]  What if somebody else pays those costs or receives those benefits?
+[1576.18 - 1579.98]  That gives you the idea of negative externalities and positive externalities.
+[1579.98 - 1583.06]  A negative externality is when there's additional costs on another person.
+[1583.06 - 1584.86]  Notice we have two cost curves.
+[1584.86 - 1585.98]  This is the marginal private cost.
+[1585.98 - 1588.30]  The other one is the marginal social cost.
+[1588.30 - 1590.90]  That tells you the social costs are above the private cost.
+[1590.90 - 1593.42]  The firm is not recognizing these additional costs.
+[1593.42 - 1596.58]  You've got a quantity of quantity free market and right here's the quantity of social
+[1596.58 - 1597.58]  optimal.
+[1597.58 - 1599.06]  The free market's messing it up.
+[1599.06 - 1600.06]  Where's the way it lost?
+[1600.06 - 1601.06]  Well, it's right there.
+[1601.06 - 1603.66]  Notice it's pointing to social optimal.
+[1603.66 - 1604.66]  Great.
+[1604.66 - 1606.86]  Positive externalities is the idea of additional benefits.
+[1606.86 - 1609.38]  Not two cost curves but two benefit curves.
+[1609.38 - 1612.46]  We've got a demand curve down here which is the marginal private benefit.
+[1612.46 - 1615.66]  We also have a marginal social benefit that's right there.
+[1615.66 - 1619.66]  That tells you that society wants more of this but the free market's not recognizing those
+[1619.66 - 1622.50]  additional benefits to other people.
+[1622.50 - 1626.26]  Again, we've got a quantity free market, quantity social optimal, free market's messing
+[1626.26 - 1630.78]  it up and the benefits are spilling over to some other person.
+[1630.78 - 1632.38]  The debit loss is right here.
+[1632.38 - 1636.70]  To solve the problem, you can do a per unit subsidy to either consumers or producers to
+[1636.70 - 1637.70]  produce more.
+[1637.70 - 1641.90]  By the way, for a negative externality, you want to do a per unit tax to produce less.
+[1641.90 - 1645.30]  The last thing you're going to learn is the idea about the Lorenz curve and the idea of
+[1645.30 - 1647.10]  income inequality.
+[1647.10 - 1648.82]  It's a graph that looks like this.
+[1648.82 - 1653.34]  You've got the percent of families, percent of income and this diagonal line right there
+[1653.34 - 1654.94]  tells you perfect equality.
+[1654.94 - 1659.66]  The actual curvy curve line right there shows actual distribution of income.
+[1659.66 - 1663.70]  The bigger the banana, I tell my students, the banana graph, the bigger the banana, the
+[1663.70 - 1664.70]  more income inequality.
+[1664.70 - 1669.34]  You can also learn about the genie coefficient and actually calculate the area of A relative
+[1669.34 - 1672.06]  to the area of A and B combined.
+[1672.06 - 1675.50]  The last thing you learn here is the idea of types of taxes.
+[1675.50 - 1676.98]  There's three different types.
+[1676.98 - 1678.54]  Progressive, progressive, proportional.
+[1678.54 - 1680.58]  Now, two dollar tax on consumers.
+[1680.58 - 1686.18]  Two dollar tax on all consumers is actually a regressive tax because two dollars is a larger
+[1686.18 - 1688.90]  percent income for poor people.
+[1688.90 - 1691.86]  Even though everyone's paying the same dollar amount, they're paying different percents
+[1691.86 - 1692.86]  of their income.
+[1692.86 - 1697.46]  A progressive tax means rich people pay a higher percent of their income, like an income
+[1697.46 - 1699.38]  tax in the United States.
+[1699.38 - 1701.82]  Proportional means they pay a same percent of income, like everyone pays ten percent
+[1701.82 - 1702.82]  of their income.
+[1702.82 - 1705.90]  Regressive tax is the idea that poor people pay a higher percent of income.
+[1705.90 - 1708.90]  So a two dollar tax, although it seems progressive, it's not.
+[1708.90 - 1713.58]  It's regressive because poor people pay a higher percent of their income when they pay just
+[1713.58 - 1714.58]  two dollars.
+[1714.58 - 1717.70]  Unit six is actually pretty easy because it's just the application of supply and demand
+[1717.70 - 1718.70]  which you learned earlier.
+[1718.70 - 1720.50]  It's got a few definitions.
+[1720.50 - 1722.66]  There's not that much to do calculation-wise.
+[1722.66 - 1726.58]  Why give this a four out of ten difficulty level to finish off the class?
+[1726.58 - 1728.18]  Hey, thank you so much for watching this video.
+[1728.18 - 1731.90]  I wish you all the best of luck on the AP test or on your big final exam.
+[1731.90 - 1733.38]  Hey, you're going to do awesome, okay?
+[1733.38 - 1734.38]  Thanks for watching.
+[1734.38 - 1734.86]  Till next time!

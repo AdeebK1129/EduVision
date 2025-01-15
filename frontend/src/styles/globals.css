@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.markdown {
+  @apply prose prose-lg max-w-none text-gray-800;
+}
+
+.markdown h1 {
+  @apply text-2xl font-bold text-gray-900;
+}
+
+.markdown h2 {
+  @apply text-xl font-semibold text-gray-800;
+}
+
+.markdown p {
+  @apply text-gray-700 leading-relaxed;
+}
+
+.markdown ul {
+  @apply list-disc list-inside;
+}
+
+.markdown code {
+  @apply bg-gray-200 px-2 py-1 rounded-md font-mono text-sm text-gray-800;
+}
+
+.markdown pre {
+  @apply bg-gray-800 text-gray-200 p-4 rounded-md overflow-auto;
+}
+
+/* Fix code blocks inside <pre> */
+.markdown pre code {
+  @apply bg-transparent text-gray-200 p-0 rounded-none font-mono text-sm;
+}
