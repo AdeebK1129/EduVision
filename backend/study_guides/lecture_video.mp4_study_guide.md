@@ -1,0 +1,3 @@
+# Study Guide
+
+Sure! I can help you create a comprehensive study guide. To tailor the guide effectively, could you please provide more details about the subject or topic you want to focus on? Additionally, let me know the level of education (e.g., high school, college) and any specific areas you're particularly interested in. This will allow me to create the most relevant and useful study guide for you.

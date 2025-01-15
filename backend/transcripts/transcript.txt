@@ -1,0 +1,233 @@
+[0.00 - 6.00]  In today's video, I'm going to show you all the concepts that you need to know to be successful with TypeScript,
+[6.00 - 10.00]  as well as how you can start using TypeScript right away with React.
+[10.00 - 15.00]  TypeScript will make you a better JavaScript developer for several reasons.
+[15.00 - 17.00]  You'll feel confident when writing code.
+[17.00 - 20.00]  Fewer errors will appear in your production code.
+[20.00 - 22.00]  It'll be easier to refactor code.
+[22.00 - 27.00]  You'll write fewer tests, and overall you'll have a better coding experience in your editor.
+[27.00 - 32.00]  You've probably heard that TypeScript is a flavor or a variant of JavaScript.
+[32.00 - 34.00]  Add a little bit of spice.
+[34.00 - 41.00]  The relationship between TypeScript and JavaScript is rather unique among modern programming languages.
+[41.00 - 46.00]  TypeScript offers all of JavaScript's features and adds an additional layer on top of them.
+[46.00 - 48.00]  TypeScript's Type System.
+[48.00 - 52.00]  For example, JavaScript provides strings, numbers, and objects,
+[52.00 - 57.00]  but it doesn't check that you've used them consistently. TypeScript does that.
+[57.00 - 62.00]  The main benefit of TypeScript is that it can highlight unexpected behavior in your code,
+[62.00 - 64.00]  lowering the chance of bugs.
+[64.00 - 71.00]  If you're new here, like and subscribe, and comment down below if you'd like to see more TypeScript videos in the future.
+[71.00 - 75.00]  Now that you know TypeScript is awesome, let's go ahead and get started.
+[83.00 - 88.00]  To get started, we're first going to create an empty folder on our desktop.
+[88.00 - 90.00]  Let's name it something like TypeScript.
+[90.00 - 95.00]  Finally, you can simply drag and drop the folder into your code editor of choice.
+[95.00 - 97.00]  I'll be using Visual Studio Code.
+[97.00 - 101.00]  Starting to use TypeScript is an extremely straightforward process.
+[101.00 - 109.00]  Instead of creating a file with the .js extension, we'll create a new file that ends with a .ts extension.
+[109.00 - 114.00]  So, let's create a new file and name it index.ts.
+[114.00 - 118.00]  Inside of here, we can write our TypeScript code.
+[118.00 - 125.00]  Another cool benefit of TypeScript is that there's absolutely no learning curve if you already know JavaScript.
+[125.00 - 128.00]  That's because it's a superset of JavaScript.
+[128.00 - 134.00]  So, any valid.js is also valid TypeScript, so you can learn it incrementally as you go.
+[135.00 - 140.00]  We can prove that by writing some simple JavaScript code into a .ts file.
+[140.00 - 147.00]  Let's start with a simple console.log and then in there, let's do hello TypeScript.
+[147.00 - 151.00]  Now the question is, how can we compile this code?
+[151.00 - 158.00]  To compile TypeScript into JavaScript, we're going to open our terminal by going to View and then Terminal.
+[158.00 - 165.00]  The command we need to compile our code is going to be mpx.tscindex.ts.
+[165.00 - 171.00]  So, that's mpx.tsc and then the name of the file that we want to compile.
+[171.00 - 173.00]  Okay, let's run it.
+[173.00 - 179.00]  And in a matter of seconds, you'll see that a new index.js file has been created.
+[179.00 - 187.00]  Considering that we wrote pure JavaScript code inside of our TypeScript file, when compiled, it looks exactly the same.
+[187.00 - 194.00]  Now that we know that TypeScript is nothing more than compiled JavaScript with some extra features,
+[194.00 - 199.00]  let's explore those same features that make TypeScript so powerful.
+[199.00 - 206.00]  The biggest benefit is enormous knowledge that you give to your IDE, like Visual Studio Code, when you use TypeScript.
+[206.00 - 210.00]  Your code editor becomes multiple times smarter and more helpful.
+[210.00 - 213.00]  It lets you autocomplete almost everything.
+[213.00 - 219.00]  In addition, compiler can catch bugs in advance, which is far more efficient way to refactor code.
+[219.00 - 224.00]  It's better to have silly errors during development than insane errors in production.
+[224.00 - 228.00]  With that said, let's start setting up our TypeScript config file.
+[228.00 - 235.00]  When using TypeScript, you'll often see the tsconfig.json file.
+[235.00 - 238.00]  This file contains some simple compiler options.
+[239.00 - 244.00]  In our case, we're going to start with a pair of curly braces because we are in a JSON file.
+[244.00 - 250.00]  And then in there, we'll have just one property, which is compiler options.
+[250.00 - 257.00]  Make sure that compiler options is wrapped in double-quoted strings because we are in a JSON file.
+[257.00 - 264.00]  Our compiler options are going to be equal to an object that's going to have just one property called a lib.
+[264.00 - 269.00]  A vatlib is going to be equal to an array containing two strings.
+[269.00 - 274.00]  The first one is going to be DOM, and the second one is going to be ES6.
+[274.00 - 279.00]  With this, we're simply telling TypeScript compiler to compile to newer standards of JavaScript.
+[279.00 - 281.00]  And now, enough talking.
+[281.00 - 284.00]  Let's explore TypeScript in action.
+[284.00 - 289.00]  First, we're going to discuss implicit types.
+[289.00 - 295.00]  TypeScript knows the JavaScript language, and it will generate types for you in many cases.
+[295.00 - 302.00]  For example, in creating a variable and assigning it to a particular value, TypeScript will use the value as its type.
+[302.00 - 312.00]  So, if we do something like led, hello world, and that's going to be equal to a string of hello world.
+[312.00 - 319.00]  Okay, as you can see, if you hover over it, you'll see that it says that hello world is a string.
+[319.00 - 328.00]  So, in normal JavaScript, if you try doing something like hello world is equal to the number of five, this would be completely fine.
+[328.00 - 335.00]  But in TypeScript, if you hover over it, it says Type number is not assignable to TypeString.
+[335.00 - 341.00]  You might think that this is unnecessary, but this is definitely helpful, and it's going to catch a lot of bugs.
+[341.00 - 349.00]  In my opinion, variables should be of one type, and they shouldn't be changed, because that can cause unexpected behavior.
+[349.00 - 360.00]  So, in this case, TypeScript knows that this is a string, and it's going to forbid you to use any other type, and all of that without adding any extra characters.
+[360.00 - 363.00]  This seems like normal JavaScript code, right?
+[363.00 - 367.00]  Now, let's talk about explicit types.
+[367.00 - 371.00]  Oppose to implicit types, you can also define the types yourself.
+[371.00 - 373.00]  Doing this is extremely easy.
+[373.00 - 380.00]  Let's say that you want to create a variable, let first name is going to be equal to a string of John.
+[380.00 - 386.00]  And let's say that John has the age, so we can say let age is equal to something like 30.
+[386.00 - 394.00]  With this, we just use implicit types, but if you want to define types yourself, you can say colon, and then specify the type.
+[394.00 - 401.00]  In this case, we're going to say the first name is a fit type string, and age is a fit type number.
+[401.00 - 404.00]  This is how you would do it in TypeScript.
+[404.00 - 415.00]  And as before, if you try changing the first name to something like a number, that isn't going to work, same thing if you try changing the age to something like a string.
+[416.00 - 422.00]  It says type string is not assignable to type number, and it says type number is not assignable to string.
+[422.00 - 429.00]  So it immediate that tells you, okay, this variable has to be a string, and this one has to be a number.
+[429.00 - 437.00]  So, just to repeat, the only thing you have to do to define a type is to add a colon and specify the type.
+[437.00 - 439.00]  That's it.
+[439.00 - 442.00]  In TypeScript, you can use a variety of different types.
+[442.00 - 454.00]  Some of the most commonly used ones are bullion, number, string, array, tuple, enum, unknown, any void, null, and undefined.
+[454.00 - 460.00]  As you can see, most of them are basic variable types that you can use in JavaScript every day.
+[460.00 - 466.00]  Tuple and enum might be new to you, but don't worry, because we're going to go over them right now.
+[467.00 - 475.00]  Tuple allows you to express an array with a fixed number of elements whose types are known, but don't need to be the same.
+[475.00 - 481.00]  For example, you may want to represent a value as a pair of a string and a number.
+[481.00 - 488.00]  So, let's create that type, we can say type, and let's do something like string and number.
+[489.00 - 497.00]  This is going to be the name of our type, and you can simply define it as an array, and put the types right into it.
+[497.00 - 508.00]  So, as you can see, our type, called string and a number, is an array where first element in that array has to be string, and the second one has to be a number.
+[509.00 - 522.00]  So, if we were to declare a variable of that type, we would say something like let x, type of string and number, is equal to an array, and then there we can say something like hello, and the second thing something like 10.
+[522.00 - 527.00]  This is a proper variable using the type, string, and number.
+[527.00 - 538.00]  Now, if you try designing a different value to the second element, something like hello, world, you're immediately going to get an error that says type, string, is not assignable to type number.
+[538.00 - 542.00]  And, simply put, that was a tuple.
+[542.00 - 545.00]  Next on our list, we have enums.
+[545.00 - 551.00]  Enum is definitely a helpful addition to the standard set of data types from JavaScript.
+[551.00 - 559.00]  In languages like C sharp and Java, an enum is a way of giving more friendly names to sets of numeric values.
+[559.00 - 571.00]  Enums allow a developer to define a set of named constants, using enums can make it easier to document your intent or create a set of distinct cases.
+[571.00 - 576.00]  Right below, I'm going to just paste a usage for enums.
+[576.00 - 585.00]  Let's say that, for example, you have continents, these are going to be constants, and you want to have them all in one reachable object of sorts.
+[585.00 - 591.00]  You can do that by saying enum, continents, and then use this object like structure.
+[591.00 - 601.00]  By default, if you don't specify anything, the first thing in an enum is going to have a value of zero, following by one, and so on.
+[601.00 - 604.00]  So these are self-interimating values.
+[604.00 - 613.00]  So why is that useful? If you want to set something like a chosen continent on a map to Africa, you don't have to say choose two.
+[613.00 - 621.00]  You can say choose continents dot Africa, which is going to be equal to two, and that way your code is more descriptive.
+[621.00 - 625.00]  If you use Redux before, then you might already see a purpose for this.
+[625.00 - 632.00]  In actions, we have a lot of types, like do this, do that, and they have all of their string names.
+[632.00 - 640.00]  With enums, you can specify the names like this, and then you can be sure not to miss one character in a string anytime soon.
+[640.00 - 643.00]  Again, TypeScript helps with that.
+[643.00 - 655.00]  This auto-incromenting behavior is useful for cases where we might not care about the member values themselves, but we do care that each value is distinct from other values in the same enum.
+[655.00 - 660.00]  This also might be a good place to check how the TypeScript compiler works.
+[661.00 - 668.00]  Let's try to compile our enum by running the npx.tscindex.ts.
+[668.00 - 673.00]  If you remember correctly, this is going to create our JavaScript file.
+[673.00 - 683.00]  As you can see, our TypeScript code got compiled down to something that JavaScript can understand, but don't worry, you don't need to know this syntax.
+[683.00 - 688.00]  This is just how our TypeScript is being compiled to JavaScript.
+[688.00 - 698.00]  With that said, let's continue exploring one of the most useful things when it comes to TypeScript are interfaces.
+[698.00 - 708.00]  To create an object, which includes properties of name, which is a string, and an ID, which is a number, you can use something known as an interface.
+[708.00 - 713.00]  We define interfaces by saying interface, and let's name it something like user.
+[713.00 - 722.00]  Usually, the convention is to use a capital letter, then you put curly braces, and in there you can specify the types of all the properties.
+[722.00 - 728.00]  So let's say that our name is a string, and our ID is going to be a number.
+[728.00 - 734.00]  One difference from JavaScript objects is that we use semi-colons here, not just columns.
+[734.00 - 741.00]  Now that we have this interface, we can declare a JavaScript object that conforms to the shape of your new interface.
+[741.00 - 748.00]  So let's do something like const user, and we can say user is type of our user interface.
+[748.00 - 758.00]  Our user is going to be equal to an object that has the name of john, and let's make it have an ID of something like zero.
+[758.00 - 762.00]  As you can see, our user now belongs to the type of user.
+[762.00 - 768.00]  If you try adding another property that doesn't match the interface you provided, TypeScript will warn you.
+[768.00 - 778.00]  If you try adding age of 25, as you can see, type, name string, ID number, age number is not a signable type user.
+[778.00 - 784.00]  Object literal may only specify known properties, and age does not exist in type user.
+[784.00 - 787.00]  TypeScript is really descriptive of what you need to do.
+[787.00 - 791.00]  So we cannot have an age property in our user.
+[791.00 - 797.00]  With TypeScript, you can also create complex types by combining simple ones.
+[797.00 - 800.00]  So we can call that composing types.
+[800.00 - 804.00]  Composing multiple types is called a union.
+[804.00 - 808.00]  With a union, you can declare a type that could be one of many types.
+[808.00 - 816.00]  A popular use case for union types is to describe the set of strings and numbers that a value is allowed to be.
+[816.00 - 821.00]  For example, we can have a type of window states.
+[821.00 - 824.00]  And those window states can be open.
+[824.00 - 828.00]  And then we have one straight line. It's not an or sign.
+[828.00 - 830.00]  It can also be closed.
+[830.00 - 835.00]  And our window can also be, let's say, minimized.
+[835.00 - 840.00]  These are all the window states. It cannot be anything other than this.
+[840.00 - 845.00]  So if you were to declare a variable, const window state.
+[845.00 - 849.00]  And then you say that window state is of a type window states.
+[849.00 - 854.00]  And you make it equal to, I don't know, this is not a window.
+[854.00 - 857.00]  So that's a random string type.
+[857.00 - 862.00]  I don't know. This is not a window. It's not a signable to type window states.
+[862.00 - 865.00]  This might seem trivial now because you wouldn't make a mistake like this.
+[865.00 - 868.00]  You would just type open or close or minimized.
+[868.00 - 873.00]  But in bigger applications, this can really save your life.
+[873.00 - 876.00]  Because sometimes you're going to use strings or numbers or pass variables
+[876.00 - 879.00]  that you don't know what value needs to be for them.
+[879.00 - 881.00]  This is going to help you.
+[881.00 - 884.00]  Let me provide you with a few more example of unions.
+[884.00 - 887.00]  We can also say lock states.
+[887.00 - 891.00]  And lock states can be equal to, let's do something like locked.
+[891.00 - 895.00]  Or it can also be unlocked.
+[895.00 - 902.00]  Finally, another example is, let's do odd numbers under 10.
+[902.00 - 909.00]  This is really descriptive. And let's make it 1, 3, 5, 7, and 9.
+[909.00 - 914.00]  Right? Odd number under 10 can only be one of these five numbers.
+[914.00 - 920.00]  So if you create a variable called odd and set it to odd number under 10,
+[920.00 - 923.00]  of course, we cannot make it something like 6.
+[923.00 - 926.00]  As you can see, that results in an error.
+[926.00 - 931.00]  But if you do something like 5 or 7 or 9, that is completely fine.
+[932.00 - 936.00]  Unions provide a way to handle different types too.
+[936.00 - 941.00]  Let's say that we want to create a function that gives us the length of something.
+[941.00 - 945.00]  Well, first we have to think, what can we get the length from?
+[945.00 - 948.00]  Strings have length, right? But so do arrays.
+[948.00 - 952.00]  So let's create a function, const get length,
+[952.00 - 956.00]  that can take in a string or an array of strings.
+[956.00 - 958.00]  So we can make this an error function.
+[958.00 - 963.00]  And then inside of perrams, you can specify something like a perram.
+[963.00 - 967.00]  And there you can say of which type can this parameter be.
+[967.00 - 970.00]  So we can say something like a string.
+[970.00 - 973.00]  Or, and then this is how you can declare an array of something.
+[973.00 - 976.00]  String, and then array sign.
+[976.00 - 981.00]  This here is not a string type. This means array of strings.
+[981.00 - 984.00]  If you want to create an array of numbers, then it would look like this.
+[984.00 - 989.00]  Or if you want to use any, that means an array of any types, then you would use this.
+[989.00 - 992.00]  But in this case, let's keep with strings.
+[992.00 - 998.00]  And then what we want this function to do is to return perram.length.
+[998.00 - 1002.00]  Now, if we tried calling our function, get length,
+[1002.00 - 1005.00]  with something like a string of test.
+[1005.00 - 1008.00]  Then that would be four, right?
+[1008.00 - 1011.00]  We passed in a string, we set string.length,
+[1011.00 - 1015.00]  and this has four characters, so that is four.
+[1015.00 - 1020.00]  If we tried the same thing with an array, something like this, where we have an array,
+[1020.00 - 1025.00]  and that array has two elements, test and test one,
+[1025.00 - 1027.00]  the result would be two, right?
+[1027.00 - 1030.00]  Array that length returns two.
+[1030.00 - 1036.00]  Calling our function in normal JavaScript and passing a number as a parameter would be completely legal.
+[1036.00 - 1040.00]  So something like get length, and then in there would pass the number five.
+[1040.00 - 1045.00]  This wouldn't cause any issues or syntax error in plain JavaScript.
+[1045.00 - 1051.00]  But if you think about it, calling that length of a number will result in an undefined,
+[1051.00 - 1053.00]  and it would potentially break your code.
+[1053.00 - 1058.00]  So if we tried doing this in TypeScript, it immediately warns you of that.
+[1058.00 - 1063.00]  It says, argument of type number is not assignable to parameter of type string,
+[1063.00 - 1065.00]  or an array of strings.
+[1066.00 - 1070.00]  And this error just saved you from all the troubles that you would get later on.
+[1070.00 - 1071.00]  Pretty useful, right?
+[1071.00 - 1074.00]  Especially in large applications.
+[1074.00 - 1077.00]  So far, you'll learn how you can start using TypeScript,
+[1077.00 - 1082.00]  and hopefully you can continue learning it by yourself by reading the docs.
+[1082.00 - 1085.00]  For the end of this video, I've prepared a short little tip
+[1085.00 - 1090.00]  so that you can start using TypeScript in your React applications right away.
+[1090.00 - 1093.00]  To do that, we're going to create a new folder,
+[1093.00 - 1096.00]  called something like React TypeScript,
+[1096.00 - 1101.00]  and we're going to drag and drop it into our Visual Studio code.
+[1101.00 - 1104.00]  We're going to open up the terminal like before.
+[1104.00 - 1107.00]  If you've previously installed CreateTrack tab globally,
+[1107.00 - 1111.00]  it would be best if you uninstall that package.
+[1111.00 - 1116.00]  You can do so by running mpm uninstallg createTrack app.
+[1116.00 - 1120.00]  After that, you'll be able to run a new command, which is mpx,
+[1120.00 - 1125.00]  create-react-app.slash, and finally,
+[1125.00 - 1130.00]  and finally, the flag of dash-template TypeScript.
+[1130.00 - 1134.00]  This is going to create the entire React folder structure,
+[1134.00 - 1136.00]  but optimized for TypeScript.
+[1136.00 - 1140.00]  Let's wait a few minutes for it to finish, and I'll be right back.
+[1140.00 - 1145.00]  Our installation is done, and if you take a look into the source folder,
+[1145.00 - 1148.00]  you can see that instead of app.js,
+[1148.00 - 1155.00]  we have app.tsx, app.test.tsx, and we have an index.tsx.
+[1155.00 - 1158.00]  Everything is using TypeScript.
+[1158.00 - 1160.00]  Although you might not see a lot of changes,
+[1160.00 - 1165.00]  this is a great way to start using TypeScript in your React applications.
+[1165.00 - 1168.00]  This is going to be the end of this video.
+[1168.00 - 1170.00]  I hope you learned something new about TypeScript,
+[1170.00 - 1172.00]  which is an emerging technology right now,
+[1172.00 - 1174.00]  and there are a lot of jobs for it.
+[1174.00 - 1177.00]  To make sure not to miss the next video,
+[1177.00 - 1179.00]  like and comment on this one,
+[1179.00 - 1181.00]  and if you haven't already, make sure to subscribe,
+[1181.00 - 1184.00]  and more importantly, turn on all notifications
+[1184.00 - 1186.00]  by clicking the bell icon.
+[1186.00 - 1189.00]  Stay safe, and see you in the next one.
