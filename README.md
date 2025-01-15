@@ -209,8 +209,10 @@ Response:
 
 **POST** /api/videos/upload/  
 Upload a new video for processing.  
+Headers:
+Authorization: Token abcd1234token 
 Request:
-FormData: ```json{ file: video_file }  ```
+FormData: { file: video_file }
 Response:
 ```json
 {
@@ -220,7 +222,9 @@ Response:
 ```
 
 **POST** /api/videos/{video_id}/process/  
-Process a video and generate notes.  
+Process a video and generate notes.
+Headers:
+Authorization: Token abcd1234token 
 Response:
 ```json
 {
@@ -231,6 +235,8 @@ Response:
 
 **GET** /api/videos/study-guides/{video_id}/  
 Retrieve the generated study guide for a video.  
+Headers:
+Authorization: Token abcd1234token 
 Response:
 ```json
 {
@@ -240,6 +246,8 @@ Response:
 
 **DELETE** /api/videos/study-guides/{video_id}/  
 Delete a study guide.  
+Headers:
+Authorization: Token abcd1234token 
 Response:
 ```json
 {
@@ -248,7 +256,9 @@ Response:
 ```
 
 **GET** /api/videos/  
-List all uploaded videos for the authenticated user.  
+List all uploaded videos for the authenticated user. 
+Headers:
+Authorization: Token abcd1234token 
 Response:
 ```json
 [
@@ -259,6 +269,8 @@ Response:
 
 **DELETE** /api/videos/{video_id}/  
 Delete a video.  
+Headers:
+Authorization: Token abcd1234token 
 Response:
 ```json
 {
