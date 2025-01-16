@@ -34,3 +34,21 @@
 .markdown pre code {
   @apply bg-transparent text-gray-200 p-0 rounded-none font-mono text-sm;
 }
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner {
+  border: 4px solid rgba(255, 255, 255, 0.2); /* Light gray border */
+  border-top: 4px solid white; /* White color for the spinning part */
+  border-radius: 50%; /* Make it round */
+  width: 40px; /* Size */
+  height: 40px; /* Size */
+  animation: spin 1s linear infinite; /* Apply spin animation */
+}
