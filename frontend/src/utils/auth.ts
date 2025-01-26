@@ -1,3 +1,7 @@
+/** 
+ * @description This file contains functions for user authentication, including login, registration, and fetching user details.
+ */
+
 import api from './api';
 
 export async function loginUser(email: string, password: string) {
