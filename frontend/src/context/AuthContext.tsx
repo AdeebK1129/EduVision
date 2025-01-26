@@ -1,3 +1,9 @@
+/**
+ * AuthContext.tsx
+ * This file defines the AuthContext and AuthProvider for managing authentication state in a React application.
+ * It provides a way to access and update the authentication token throughout the app.
+ */
+
 import React, { createContext, useState, useContext, useEffect } from "react";
 import api, { setAuthToken } from "../utils/api";
 
